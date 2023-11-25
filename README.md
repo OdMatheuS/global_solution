@@ -94,7 +94,7 @@ mvn clean package
 
 ```
 - Atalho Docker Compose, executando um "stop", caso tenha feito um "start" anterior & mostrando nome e porta que esta rodando.
-- Extra [Link do video da aplicação Mobile](https://)
+- Extra [Link do video da aplicação Mobile](https://drive.google.com/file/d/1CzgH3VgIX1sij66K4sAc7_AglflAehjG/view?usp=sharing)
 ```
 sudo docker-compose down && sudo docker-compose up -d --build && sudo docker-compose ps
 
